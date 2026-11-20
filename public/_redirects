@@ -1,0 +1,2 @@
+# Cloudflare Pages SPA fallback routing (handles direct refreshes on /machines/*, /about, /gallery, etc.)
+/* /index.html 200
