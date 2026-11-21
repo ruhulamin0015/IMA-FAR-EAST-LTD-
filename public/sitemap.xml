@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://imabangla.com/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>IMA Far East Ltd. — Italian Garment Machinery Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>Complete 75-Machine Industrial Catalog — IMA Far East Ltd.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/solutions</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/ima-detail-syncro.webp</image:loc>
+      <image:title>Eight Turnkey Garment Factory Solutions — IMA Far East Ltd.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/service</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/ima-detail-zephiro-head.webp</image:loc>
+      <image:title>24/7 Service &amp; OEM Spare Parts Bangladesh — IMA Far East Ltd.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/about</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>About IMA Far East Ltd. (IFEL) — Dhaka Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/company</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/ima-partners.webp</image:loc>
+      <image:title>Company &amp; Principal Partners — IMA Far East Ltd.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/gallery</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>Exhibition &amp; Factory Installation Gallery — IMA Far East Ltd.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/contact</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>Book a Factory Audit &amp; Quote — IMA Far East Ltd.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/typhoon-70</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>IMA Typhoon 70 / 100 — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/zephiro-50</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>IMA Zephiro 50 — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/tempest-plus</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>IMA Tempest Plus — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/single-ply-conveyor</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/og-cover.png</image:loc>
+      <image:title>IMA Single-Ply Conveyor — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/892-mithos</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-892-mithos.webp</image:loc>
+      <image:title>IMA 892 Mithos — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/890b-phoenix</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-890b.webp</image:loc>
+      <image:title>IMA 890B Phoenix — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/890h-heavy-duty</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-890h.webp</image:loc>
+      <image:title>IMA 890H Phoenix Heavy Duty — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/890l-phoenix-light</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-890l.webp</image:loc>
+      <image:title>IMA 890L Phoenix Lightness — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/890c-turntable</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-890c.webp</image:loc>
+      <image:title>IMA 890C Phoenix Turntable — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/890xl-phoenix-extra-large</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-890xl.webp</image:loc>
+      <image:title>IMA 890XL Phoenix Extra Large — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/890t-phoenix-tubular</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-890t.webp</image:loc>
+      <image:title>IMA 890T Phoenix Tubular — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/890d-dual-spreader-feeder</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-890d.webp</image:loc>
+      <image:title>IMA 890D Dual Spreader &amp; Feeder — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/syncro-modular-line</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-table-848.webp</image:loc>
+      <image:title>IMA Syncro Modular Line (848.10) — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/air-cushion-table</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-table-825.webp</image:loc>
+      <image:title>IMA 825 Standard &amp; Air-Blowing Table — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/ima-826-transfer-table</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-table-826.webp</image:loc>
+      <image:title>IMA 826 Transfer Table Section — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/ima-837-pin-table</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-table-837.webp</image:loc>
+      <image:title>IMA 837 Checks &amp; Stripes Pin Table — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/ima-839-multilevel-conveyor</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/ima-table-839.webp</image:loc>
+      <image:title>IMA 839 3-Level Multilevel Conveyor Table — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-fp-touch-series</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-fusing-fp-touch.webp</image:loc>
+      <image:title>ROTONDI FP Touch Series (FP-120 / 140 / 160 / 183) — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-fp183-multi-lane-stacker</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-fusing-fp183-stacker.webp</image:loc>
+      <image:title>ROTONDI FP-183 Touch with 4-Lane Stacker — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-g-mg-fusing-series</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-fusing-g140-g160.webp</image:loc>
+      <image:title>ROTONDI G-100 / G-122 / G-140 / G-160 Series — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-mg-compact-fusing-series</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-fusing-mg100.webp</image:loc>
+      <image:title>ROTONDI MG-45 / MG-60J / MG-100 &amp; SM-120 Fusing — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-sh5-sh10-collar-fusing</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-shirt-sh5.webp</image:loc>
+      <image:title>ROTONDI SH-5 / SH-4 / SH-10 Collar &amp; Cuff Fusing Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-sr3100-arsh-shirt-finishing</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-shirt-sr3100.webp</image:loc>
+      <image:title>ROTONDI SR-3100 Blowing Shirt Finisher — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-arsh-double-dummy-press</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-shirt-arsh.webp</image:loc>
+      <image:title>ROTONDI ARSH Double-Dummy Shirt Body Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-18rd-vv-collar-cuff-carousel</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-shirt-18rd.webp</image:loc>
+      <image:title>ROTONDI 18RD CRP 180° Carousel &amp; VV Wrinkle-Free Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-bl-clp-crp-collar-cuff-press</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-shirt-bl-clp.webp</image:loc>
+      <image:title>ROTONDI BL CLP &amp; BL CRP Mirror Collar &amp; Cuff Presses — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-r6100-bl-clp-shirt-prep</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-shirt-r6100.webp</image:loc>
+      <image:title>ROTONDI R6100 Placket, R6200 Vent &amp; R002 Pocket Creasers — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/rotondi-apc3300-ironing-tables</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/rotondi-shirt-apc3300.webp</image:loc>
+      <image:title>ROTONDI APC-3300 Folding Table &amp; 1980 / 2004E Ironing Tables — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mxc-205-d-se-weld-cut</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mxc205.webp</image:loc>
+      <image:title>FRAMIS ITALIA MXC 205 D SE Weld &amp; Cut — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mxc-208-210-binding-taping</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mxc208.webp</image:loc>
+      <image:title>FRAMIS ITALIA MXC 208 D SE Edge Binding Machine — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mxc-210-d-se-weld-fold-taping</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mxc210.webp</image:loc>
+      <image:title>FRAMIS ITALIA MXC 210 D SE Weld &amp; Fold Taping — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mx211-mxcmp01-continuous-folding</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mx211-212.webp</image:loc>
+      <image:title>FRAMIS ITALIA MX 211 / 212 SE Continuous Hem Folding — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mxcmp01-dual-belt-joining</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mxcmp01.webp</image:loc>
+      <image:title>FRAMIS ITALIA MXCMP01 Dual-Belt Joining Machine — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mu-281-ultrasonic</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mu281.webp</image:loc>
+      <image:title>FRAMIS ITALIA MU 281 Ultrasonic Sewfree Machine — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mp301hk-double-plate-press</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mp301hk.webp</image:loc>
+      <image:title>FRAMIS ITALIA MP 301 HK Double-Plate Heat Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mp301hk-mr900-lamination</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mr900.webp</image:loc>
+      <image:title>FRAMIS ITALIA MR 900 Full-Width Laminating Machine — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mc201z-zipper-drift-welder</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mc201z.webp</image:loc>
+      <image:title>FRAMIS ITALIA MC201Z Thermowelding Zipper Drift Machine — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mc201z-mphk40-mphk18-presses</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mphk40-vacuum.webp</image:loc>
+      <image:title>FRAMIS ITALIA MPHK40 Vacuum &amp; Chiller Hot/Cool Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mphk32x-dual-ctype-press</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mphk32x.webp</image:loc>
+      <image:title>FRAMIS ITALIA MPHK32X Dual C-Type Flat Heat Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mphk21-flat-hot-cool-press</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mphk21.webp</image:loc>
+      <image:title>FRAMIS ITALIA MPHK21 Flat Hot &amp; Cool Bonding Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/framis-mphk18-3d-curve-press</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/framis-mphk18-curve.webp</image:loc>
+      <image:title>FRAMIS ITALIA MPHK18 3D Pneumatic Curve Press — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2025-2250-jacket-pocket-welting</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-2025-1.webp</image:loc>
+      <image:title>New-tecH 2025/1 Double/Single Welt Pocket Automat — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2050-5-breast-welt-automat</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-2050-5.webp</image:loc>
+      <image:title>New-tecH 2050/5 Jacket Breast Welt Pocket Automat — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2250-5-loader-welt-automat</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-2250-5.webp</image:loc>
+      <image:title>New-tecH 2250/5 Jacket Welt Automat with Loader — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-100-5-sleeve-setter-100-8-indexer</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-100-5.webp</image:loc>
+      <image:title>New-tecH 100/5 Programmable Jacket Sleeve Setter — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-100-8-sleeve-buttonhole-indexer</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-100-8.webp</image:loc>
+      <image:title>New-tecH 100/8 Jacket Sleeve Buttonhole Indexer — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3600-handstitch-9820-eyelet</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3600-1-2.webp</image:loc>
+      <image:title>New-tecH 3600/1-2 Electronic Sartorial Hand-Stitch — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3800-9-3700-basting-lining</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3800-9.webp</image:loc>
+      <image:title>New-tecH 3800/9 Shoulder Pad &amp; 3700/1-2 Jacket Basting — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3300-1-flap-waistband-automat</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3300-1.webp</image:loc>
+      <image:title>New-tecH 3300/1 Jacket Flap &amp; Waistband Extension Automat — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2600-1-pocket-facing-automat</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-2600-1.webp</image:loc>
+      <image:title>New-tecH 2600/1 Inside Pocket Facing Automat — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-9820-01-eyelet-430d-bartack</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-9820-01.webp</image:loc>
+      <image:title>New-tecH 9820/01 Eyelet Buttonholer &amp; 430/D Bartacker — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3000-11-back-pocket-setter</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3000-11.webp</image:loc>
+      <image:title>New-tecH 3000/11 3-Axis Back Pocket Setter Automat — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3000-12-watch-pocket-3000-6-dual</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3000-12.webp</image:loc>
+      <image:title>New-tecH 3000/12 Watch Pocket &amp; 3000/6 Dual-Head Setter — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2800-8-j-stitch-fly-automat</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-2800-8.webp</image:loc>
+      <image:title>New-tecH 2800/8 Automatic Front Fly J-Stitch Workstation — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2800-8-j-stitch-3200-2-hemming</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3200-2-3.webp</image:loc>
+      <image:title>New-tecH 3200/2-3 &amp; 3200/5 Pocket Hemming &amp; Gasket Automats — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-1600-10-double-serging-1600-4</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-1600-10.webp</image:loc>
+      <image:title>New-tecH 1600/10 Double-Head &amp; 1600/4 Single-Head Trouser Serging — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-1600-10-serging-1500-8-sideseam-3110-waistband</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-1500-8.webp</image:loc>
+      <image:title>New-tecH 1500/8 &amp; 1500/9 Trouser Sideseam &amp; Inseam Automats — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2900-7-feed-off-arm-3110-1-waistband</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3110-1.webp</image:loc>
+      <image:title>New-tecH 2900/7 Feed-Off-The-Arm &amp; 3110/1 Kansai Waistband — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-2900-2-5-6-bottom-hem-fly-serging</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-2900-2.webp</image:loc>
+      <image:title>New-tecH 2900/2 Bottom Hem, 2900/5 Fly &amp; 2900/6 Pocket Bag — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3000-1-3-nt254-beltloop-automats</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-nt254.webp</image:loc>
+      <image:title>New-tecH NT254 Belt-Loop Setter, 3000/1 &amp; 8722/8042 Cutter — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3500-20-kangaroo-3000-13-knit-pocket</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3500-20.webp</image:loc>
+      <image:title>New-tecH 3500/20 3-Axis Hoodie Kangaroo Pocket Setter — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3000-13-tshirt-polo-pocket-setter</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3000-13.webp</image:loc>
+      <image:title>New-tecH 3000/13 Knitwear T-Shirt &amp; Polo Pocket Setter — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3500-10-bottom-hemmer-3500-1-placket</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3500-10.webp</image:loc>
+      <image:title>New-tecH 3500/10 Yamato Tubular Bottom Hemming Automat — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-3500-11-open-hemmer-3500-1-placket</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-3500-1-2.webp</image:loc>
+      <image:title>New-tecH 3500/11 Open Hemmer &amp; 3500/1-2 Laser Polo Placket — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/newtech-1500-7-tracksuit-2025-3-zip-welt</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/newtech-1500-7.webp</image:loc>
+      <image:title>New-tecH 1500/7 Tracksuit Sideseam, 2025/3 Zip Welt &amp; 1500/2 Piping — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-ns420-520-alltogether-washer</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-ns420-alltogether.webp</image:loc>
+      <image:title>NEXIA NS 260 · NS 420 · NS 520 AllTogether® High-Spin Washer — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-wave-ndrop-nebulizer-system</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-ns420-wave.webp</image:loc>
+      <image:title>NEXIA Wave® Recirculation &amp; NDrop® Double Nebulizer System — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-neo3-ozone-nexstone-system</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-neo3-ozone-system.webp</image:loc>
+      <image:title>NEXIA NEO³ Ozone Generator &amp; Nexstone® Stone-Free System — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-nd420c-jet-dyeing-machine</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-nd420c-dyeing.webp</image:loc>
+      <image:title>NEXIA ND 420 C High-Spin Garment Dyeing Machine with Jet — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-nd-ns-sampling-machines</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-nd-ns-sampling-line.webp</image:loc>
+      <image:title>NEXIA ND/NS 2 · 5 · 17 · 40 Lab &amp; R&amp;D Sampling Machines — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-ndry200-circular-energy-dryer</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-ndry200-circular-energy.webp</image:loc>
+      <image:title>NEXIA NDRY 200 Circular Energy Heat-Recovery Rotary Dryer — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-ndry-industrial-rotary-dryer</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-ndry200-frontal.webp</image:loc>
+      <image:title>NEXIA NDRY 105 · 120 · 200 Frontal Industrial Rotary Dryer — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-nray4-dual-laser-mannequin</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-nray4-dual-laser.webp</image:loc>
+      <image:title>NEXIA NRAY 4 Dual-Head Double Area CO₂ Laser Marking System — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-nray3-nray2-laser-systems</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-nray2-conveyor-laser.webp</image:loc>
+      <image:title>NEXIA NRAY 3 Twin Mannequin &amp; NRAY 2 Double-Belt Conveyor Laser — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://imabangla.com/machines/nexia-nitrogen-lcft-garment-dyeing</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://imabangla.com/images/catalog/nexia-nitrogen-dyeing.webp</image:loc>
+      <image:title>NEXIA NITROGEN® Airless N₂ Indigo &amp; LCF.T 220/330/520 Dyeing Line — IMA Far East Ltd. Bangladesh</image:title>
+    </image:image>
+  </url>
+</urlset>

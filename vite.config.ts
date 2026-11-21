@@ -7,9 +7,24 @@ import { defineConfig } from 'vite';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig(() => {
+  const googleVerification =
+    process.env.VITE_GOOGLE_SITE_VERIFICATION || process.env.GOOGLE_SITE_VERIFICATION || '';
+
   return {
     base: '/',
-    plugins: [react(), tailwindcss()],
+    plugins: [
+      react(),
+      tailwindcss(),
+      {
+        name: 'inject-google-verification',
+        transformIndexHtml(html) {
+          const tag = googleVerification
+            ? `<meta name="google-site-verification" content="${googleVerification}" />`
+            : '';
+          return html.replace('<!--GOOGLE_SITE_VERIFICATION_PLACEHOLDER-->', tag);
+        },
+      },
+    ],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),

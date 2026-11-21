@@ -8,7 +8,8 @@
   },
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
-    "build": "vite build",
+    "seo:generate": "node scripts/generate-seo.mjs",
+    "build": "node scripts/generate-seo.mjs && vite build",
     "preview": "vite preview",
     "deploy:cloudflare": "npm run build && npx wrangler deploy",
     "deploy:pages": "npm run build && npx wrangler pages deploy dist --project-name=ima-far-east-ltd",

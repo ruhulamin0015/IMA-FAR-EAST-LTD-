@@ -3,9 +3,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { useEffect } from 'react';
-import { getMachineBySlug } from './data/machines';
 import { Link, RouterProvider, useRouter } from './router';
+import { SeoManager } from './components/site/SeoManager';
 import { SiteHeader } from './components/site/SiteHeader';
 import { SiteFooter } from './components/site/SiteFooter';
 import { HomePage } from './pages/HomePage';
@@ -44,34 +43,6 @@ function AppRoutes() {
   const { pathname } = useRouter();
   const cleanPath = pathname.replace(/\/+$/, '') || '/';
 
-  useEffect(() => {
-    if (cleanPath === '/') {
-      document.title = 'IMA Far East Ltd. — The Italian cutting room, engineered for Bangladesh';
-    } else if (cleanPath === '/machines') {
-      document.title = 'Machine fleet — IMA Far East Ltd.';
-    } else if (cleanPath.startsWith('/machines/')) {
-      const slug = cleanPath.slice('/machines/'.length);
-      const machine = getMachineBySlug(slug);
-      document.title = machine
-        ? `${machine.name} — IMA Far East Ltd.`
-        : 'Machine not found — IMA Far East Ltd.';
-    } else if (cleanPath === '/about') {
-      document.title = 'About Us — IMA Far East Ltd.';
-    } else if (cleanPath === '/gallery') {
-      document.title = 'Cinematic Exhibition Gallery — IMA Far East Ltd.';
-    } else if (cleanPath === '/solutions') {
-      document.title = 'Eight turnkey solutions — IMA Far East Ltd.';
-    } else if (cleanPath === '/service') {
-      document.title = '24/7 Service & spares — IMA Far East Ltd.';
-    } else if (cleanPath === '/company') {
-      document.title = 'Company & leadership — IMA Far East Ltd.';
-    } else if (cleanPath === '/contact') {
-      document.title = 'Book a factory audit — IMA Far East Ltd.';
-    } else {
-      document.title = 'Page not found — IMA Far East Ltd.';
-    }
-  }, [cleanPath]);
-
   let content = <NotFoundPage />;
   if (cleanPath === '/') {
     content = <HomePage />;
@@ -96,6 +67,7 @@ function AppRoutes() {
 
   return (
     <>
+      <SeoManager cleanPath={cleanPath} />
       <SiteHeader />
       <main>{content}</main>
       <SiteFooter />

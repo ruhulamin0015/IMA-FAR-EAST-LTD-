@@ -1,0 +1,6 @@
+# Robots.txt for IMA Far East Ltd. (IFEL)
+User-agent: *
+Allow: /
+
+# Direct Google, Bing & other search crawlers to full XML sitemap (83+ pages & machine images)
+Sitemap: https://imabangla.com/sitemap.xml
